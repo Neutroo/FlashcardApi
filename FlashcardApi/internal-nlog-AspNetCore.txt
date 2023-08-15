@@ -1,0 +1,7 @@
+2023-08-15 18:38:11.7585 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2023-08-15 18:38:11.7667 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-08-15 18:38:11.7667 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-08-15 18:38:11.7834 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.3.1999. Product version: 5.2.3+a5ddef92a8afb22508450803e37c001f4a3ba52a. GlobalAssemblyCache: False
+2023-08-15 18:38:11.8008 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=C:\Users\rodio\source\repos\FlashcardApi\FlashcardApi\bin\Debug\net6.0\NLog.config
+2023-08-15 18:38:11.8146 Info Configuration initialized.
+2023-08-15 18:38:12.2080 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=C:\Users\rodio\source\repos\FlashcardApi\FlashcardApi\bin\Debug\net6.0\NLog.config

@@ -1,0 +1,30 @@
+networks:
+  flashcard-api-dev:
+    driver: bridge
+services:
+  flashcard-api:
+    container_name: flashcard-api
+    image: flashcard-api
+    build: 
+      dockerfile: FlashcardApi/Dockerfile
+    ports:
+      - '1000:80'
+    networks:
+      - flashcard-api-dev
+    depends_on:
+      - postgres-db
+  postgres-db:
+    container_name: postgres-db
+    image: postgres
+    environment:
+      POSTGRES_USER: my-user
+      POSTGRES_PASSWORD: my-password
+      POSTGRES_DB: postgres-db
+    ports:
+      - '5432:5432' 
+    networks:
+      - flashcard-api-dev
+    volumes:
+      - postgres-data:/var/lib/postgresql/data
+volumes:
+  postgres-data:
