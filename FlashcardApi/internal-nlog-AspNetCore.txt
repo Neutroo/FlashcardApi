@@ -5,3 +5,75 @@
 2023-08-15 18:38:11.8008 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=C:\Users\rodio\source\repos\FlashcardApi\FlashcardApi\bin\Debug\net6.0\NLog.config
 2023-08-15 18:38:11.8146 Info Configuration initialized.
 2023-08-15 18:38:12.2080 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=C:\Users\rodio\source\repos\FlashcardApi\FlashcardApi\bin\Debug\net6.0\NLog.config
+2023-08-18 15:22:56.6048 Info Selecting time source FastUTC (time source)
+2023-08-18 12:22:56.6819 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2023-08-18 12:22:56.6819 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-08-18 12:22:56.6819 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-08-18 12:22:56.6819 Info Registered target NLog.Targets.ConsoleTarget(Name=console)
+2023-08-18 12:22:56.7036 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.3.1999. Product version: 5.2.3+a5ddef92a8afb22508450803e37c001f4a3ba52a. GlobalAssemblyCache: False
+2023-08-18 12:22:56.7258 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, console, ConfigItems=64, FilePath=C:\Users\rodio\source\repos\FlashcardApi\FlashcardApi\bin\Debug\net6.0\NLog.config
+2023-08-18 12:22:56.7438 Info Configuration initialized.
+2023-08-18 12:22:57.1857 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, console, ConfigItems=64, FilePath=C:\Users\rodio\source\repos\FlashcardApi\FlashcardApi\bin\Debug\net6.0\NLog.config
+2023-08-18 15:24:11.7503 Info Selecting time source FastUTC (time source)
+2023-08-18 12:24:11.8967 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2023-08-18 12:24:11.8967 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-08-18 12:24:11.8967 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-08-18 12:24:11.8967 Info Registered target NLog.Targets.ConsoleTarget(Name=console)
+2023-08-18 12:24:11.9229 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.3.1999. Product version: 5.2.3+a5ddef92a8afb22508450803e37c001f4a3ba52a. GlobalAssemblyCache: False
+2023-08-18 12:24:11.9511 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, console, ConfigItems=64, FilePath=C:\Users\rodio\source\repos\FlashcardApi\FlashcardApi\bin\Debug\net6.0\NLog.config
+2023-08-18 12:24:11.9708 Info Configuration initialized.
+2023-08-18 12:24:12.2779 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, console, ConfigItems=64, FilePath=C:\Users\rodio\source\repos\FlashcardApi\FlashcardApi\bin\Debug\net6.0\NLog.config
+2023-08-18 15:25:16.6526 Info Selecting time source FastUTC (time source)
+2023-08-18 12:25:16.7074 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2023-08-18 12:25:16.7074 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-08-18 12:25:16.7074 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-08-18 12:25:16.7074 Info Registered target NLog.Targets.ConsoleTarget(Name=console)
+2023-08-18 12:25:16.7262 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.3.1999. Product version: 5.2.3+a5ddef92a8afb22508450803e37c001f4a3ba52a. GlobalAssemblyCache: False
+2023-08-18 12:25:16.7724 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, console, ConfigItems=64, FilePath=C:\Users\rodio\source\repos\FlashcardApi\FlashcardApi\bin\Debug\net6.0\NLog.config
+2023-08-18 12:25:16.7999 Info Configuration initialized.
+2023-08-18 12:25:17.2089 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, console, ConfigItems=64, FilePath=C:\Users\rodio\source\repos\FlashcardApi\FlashcardApi\bin\Debug\net6.0\NLog.config
+2023-08-18 15:35:33.1282 Info Selecting time source FastUTC (time source)
+2023-08-18 12:35:33.2065 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2023-08-18 12:35:33.2083 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-08-18 12:35:33.2083 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-08-18 12:35:33.2083 Info Registered target NLog.Targets.ConsoleTarget(Name=console)
+2023-08-18 12:35:33.2526 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.3.1999. Product version: 5.2.3+a5ddef92a8afb22508450803e37c001f4a3ba52a. GlobalAssemblyCache: False
+2023-08-18 12:35:33.2846 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, console, ConfigItems=64, FilePath=C:\Users\rodio\source\repos\FlashcardApi\FlashcardApi\bin\Debug\net6.0\NLog.config
+2023-08-18 12:35:33.3034 Info Configuration initialized.
+2023-08-18 12:35:33.6125 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, console, ConfigItems=64, FilePath=C:\Users\rodio\source\repos\FlashcardApi\FlashcardApi\bin\Debug\net6.0\NLog.config
+2023-08-18 15:37:48.5311 Info Selecting time source FastUTC (time source)
+2023-08-18 12:37:48.6329 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2023-08-18 12:37:48.6329 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-08-18 12:37:48.6329 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-08-18 12:37:48.6329 Info Registered target NLog.Targets.ConsoleTarget(Name=console)
+2023-08-18 12:37:48.6716 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.3.1999. Product version: 5.2.3+a5ddef92a8afb22508450803e37c001f4a3ba52a. GlobalAssemblyCache: False
+2023-08-18 12:37:48.7231 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, console, ConfigItems=64, FilePath=C:\Users\rodio\source\repos\FlashcardApi\FlashcardApi\bin\Debug\net6.0\NLog.config
+2023-08-18 12:37:48.7495 Info Configuration initialized.
+2023-08-18 12:37:49.0921 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, console, ConfigItems=64, FilePath=C:\Users\rodio\source\repos\FlashcardApi\FlashcardApi\bin\Debug\net6.0\NLog.config
+2023-08-18 15:39:12.7633 Info Selecting time source FastUTC (time source)
+2023-08-18 12:39:12.8586 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2023-08-18 12:39:12.8586 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-08-18 12:39:12.8586 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-08-18 12:39:12.8586 Info Registered target NLog.Targets.ConsoleTarget(Name=console)
+2023-08-18 12:39:12.8958 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.3.1999. Product version: 5.2.3+a5ddef92a8afb22508450803e37c001f4a3ba52a. GlobalAssemblyCache: False
+2023-08-18 12:39:12.9436 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, console, ConfigItems=64, FilePath=C:\Users\rodio\source\repos\FlashcardApi\FlashcardApi\bin\Debug\net6.0\NLog.config
+2023-08-18 12:39:12.9638 Info Configuration initialized.
+2023-08-18 12:39:13.3213 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, console, ConfigItems=64, FilePath=C:\Users\rodio\source\repos\FlashcardApi\FlashcardApi\bin\Debug\net6.0\NLog.config
+2023-08-18 15:40:59.4067 Info Selecting time source FastUTC (time source)
+2023-08-18 12:40:59.4809 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2023-08-18 12:40:59.4809 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-08-18 12:40:59.4809 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-08-18 12:40:59.4809 Info Registered target NLog.Targets.ConsoleTarget(Name=console)
+2023-08-18 12:40:59.5054 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.3.1999. Product version: 5.2.3+a5ddef92a8afb22508450803e37c001f4a3ba52a. GlobalAssemblyCache: False
+2023-08-18 12:40:59.5235 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, console, ConfigItems=64, FilePath=C:\Users\rodio\source\repos\FlashcardApi\FlashcardApi\bin\Debug\net6.0\NLog.config
+2023-08-18 12:40:59.5368 Info Configuration initialized.
+2023-08-18 12:40:59.9482 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, console, ConfigItems=64, FilePath=C:\Users\rodio\source\repos\FlashcardApi\FlashcardApi\bin\Debug\net6.0\NLog.config
+2023-08-18 15:41:22.4339 Info Selecting time source FastUTC (time source)
+2023-08-18 12:41:22.4875 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2023-08-18 12:41:22.4884 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-08-18 12:41:22.4884 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-08-18 12:41:22.4884 Info Registered target NLog.Targets.ConsoleTarget(Name=console)
+2023-08-18 12:41:22.5129 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.3.1999. Product version: 5.2.3+a5ddef92a8afb22508450803e37c001f4a3ba52a. GlobalAssemblyCache: False
+2023-08-18 12:41:22.5424 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, console, ConfigItems=64, FilePath=C:\Users\rodio\source\repos\FlashcardApi\FlashcardApi\bin\Debug\net6.0\NLog.config
+2023-08-18 12:41:22.5752 Info Configuration initialized.
+2023-08-18 12:41:22.9950 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, console, ConfigItems=64, FilePath=C:\Users\rodio\source\repos\FlashcardApi\FlashcardApi\bin\Debug\net6.0\NLog.config

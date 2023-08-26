@@ -28,6 +28,16 @@ namespace FlashcardApi.Controllers
             return flashcards;
         }
 
+        [HttpGet("filtering/{theme}")]
+        public IEnumerable<Flashcard> Get(string theme)
+        {
+            var flashcards = flashcardRepository.Select(theme);
+
+            logger.LogInformation("Get by theme");
+
+            return flashcards;
+        }
+
         [HttpGet("{id}")]
         public Flashcard Get(Guid id)
         {

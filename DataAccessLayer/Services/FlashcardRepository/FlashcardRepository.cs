@@ -15,6 +15,9 @@ namespace DataAccessLayer.Services.FlashcardRepository
         public IEnumerable<Flashcard> Select()
             => context.Flashcards.ToList();
 
+        public IEnumerable<Flashcard> Select(string theme)
+            => context.Flashcards.Where(f => f.Theme == theme).ToList();
+
         public Flashcard? Select(Guid id)
             => context.Flashcards.Find(id);
 

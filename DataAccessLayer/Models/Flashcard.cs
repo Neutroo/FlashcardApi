@@ -9,5 +9,7 @@ namespace DataAccessLayer.Models
         public string? Body { get; set; }
         [Required]
         public string? HiddenBody { get; set; }
+        [Required]
+        public string? Theme { get; set;}
     }
 }
